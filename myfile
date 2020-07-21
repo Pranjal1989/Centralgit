@@ -2,4 +2,10 @@
 ---------Substarction code-----------------
 float c=25;
 add = add-c;
-printf("%d",&add[A[B)
+printf("%d",&add)
+
+-------------Division Code-----------------
+float d=5, add;
+add = add/d;
+printf("%d",&add);
+
