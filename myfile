@@ -13,3 +13,8 @@ float d=5, add;
 add = add/d;
 printf("%d",&add);
 
+----------Multiplication Code--------------
+int e=12
+add = add*e;
+printf("%d",&add")
+
