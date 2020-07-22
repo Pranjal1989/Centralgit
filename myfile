@@ -1,11 +1,12 @@
------------Arithmatic codee------------------
-int a=10, b=20, Ops=0;
-Ops = a+b;	------Addition code by Pranjal
-print("%d",&Ops)
+-----------Arithmatic code------------------
 
-float c=25;
-add = add
-printf("%d",&add)
+int a=50, b=40, Add=0;
+Add = a+b;	------Addition code by Pranjal
+print("%d",&Add);
+
+float c=25, Sub=0;
+Sub = add-c;    ------Substraction code by Karan
+printf("%f",&Sub);
 
 -------------Division Code-----------------
 float d=5, add;
