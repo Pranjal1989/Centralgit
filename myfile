@@ -8,12 +8,11 @@ float c=25, Sub=0;
 Sub = add-c;    ------Substraction code by Karan
 printf("%f",&Sub);
 
-float d=5, Div;
+float d=5, Div=0;
 Div = Sub/d;	------Division code by Pranjal
 printf("%f",&Div);
 
-----------Multiplication Code--------------
-int e=12
-add = add*e;
-printf("%d",&add")
+int e=12, Mult=0;
+Mult = Div*e;	------Multiplication code by Karan
+printf("%d",&Mult");	
 
