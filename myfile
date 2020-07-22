@@ -14,5 +14,9 @@ printf("%f",&Div);
 
 int e=12, Mult=0;
 Mult = Div*e;	------Multiplication code by Karan
-printf("%d",&Mult");	
+printf("%d",&Mult);	
 
+==========Final Result
+printf("========================Final Result===========================");
+printf("Final Result of Arithmatic code is:-%d",&Multi);
+printf("============================END================================");
